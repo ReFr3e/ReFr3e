@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReFr3e
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning about ChatGPT
-- 💞️ I’m looking to collaborate on crypto projects
+- 👀 I’m interested in AI & LLM
+- 🌱 I’m currently learning about ChatGPT and Gemini
+- 💞️ I’m looking to collaborate on AI Agent projects
 - 📫 How to reach me 0xrefr3eATgmaildotcom
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
